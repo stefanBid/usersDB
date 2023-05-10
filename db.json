@@ -260,15 +260,6 @@
             "username":"eze_mocklow",
             "email":"montes.ezec@yahoo.com",
             "password":"pass1234"
-        },
-        {
-            "id":30,
-            "name":"Alfie",
-            "surname":"Soto",
-            "birthDate":"1970-04-15",
-            "username":"alfa_fiaty",
-            "email":"alfaaamic@yahoo.com",
-            "password":"pass1234"
         }
     ]
 }
